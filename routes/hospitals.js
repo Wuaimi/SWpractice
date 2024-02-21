@@ -1,5 +1,5 @@
 const express = require('express');
-const {getHospitals , getHospital , createHospital , updateHospital , deleteHospital} = require('../controllers/hospitals');
+//const {getHospitals , getHospital , createHospital , updateHospital , deleteHospital} = require('../controllers/hospitals');
 
 const router = express.Router();
 
